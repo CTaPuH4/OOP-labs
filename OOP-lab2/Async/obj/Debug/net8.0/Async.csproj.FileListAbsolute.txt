@@ -1,0 +1,14 @@
+C:\Users\Uswer\source\repos\OOP-lab2\Async\obj\Debug\net8.0\Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uswer\source\repos\OOP-lab2\Async\obj\Debug\net8.0\Async.AssemblyInfoInputs.cache
+C:\Users\Uswer\source\repos\OOP-lab2\Async\obj\Debug\net8.0\Async.AssemblyInfo.cs
+C:\Users\Uswer\source\repos\OOP-lab2\Async\obj\Debug\net8.0\Async.csproj.CoreCompileInputs.cache
+C:\Users\Uswer\source\repos\OOP-lab2\Async\bin\Debug\net8.0\Async.exe
+C:\Users\Uswer\source\repos\OOP-lab2\Async\bin\Debug\net8.0\Async.deps.json
+C:\Users\Uswer\source\repos\OOP-lab2\Async\bin\Debug\net8.0\Async.runtimeconfig.json
+C:\Users\Uswer\source\repos\OOP-lab2\Async\bin\Debug\net8.0\Async.dll
+C:\Users\Uswer\source\repos\OOP-lab2\Async\bin\Debug\net8.0\Async.pdb
+C:\Users\Uswer\source\repos\OOP-lab2\Async\obj\Debug\net8.0\Async.dll
+C:\Users\Uswer\source\repos\OOP-lab2\Async\obj\Debug\net8.0\refint\Async.dll
+C:\Users\Uswer\source\repos\OOP-lab2\Async\obj\Debug\net8.0\Async.pdb
+C:\Users\Uswer\source\repos\OOP-lab2\Async\obj\Debug\net8.0\Async.genruntimeconfig.cache
+C:\Users\Uswer\source\repos\OOP-lab2\Async\obj\Debug\net8.0\ref\Async.dll
