@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("СИЧРОНИ")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Async")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("СИЧРОНИ")]
-[assembly: System.Reflection.AssemblyTitleAttribute("СИЧРОНИ")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cd6dc05fbada7d1f102e2cc43c3d19a6d97c99e")]
+[assembly: System.Reflection.AssemblyProductAttribute("Async")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Async")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

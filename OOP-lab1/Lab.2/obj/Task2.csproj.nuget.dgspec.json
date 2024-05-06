@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Uswer\\Source\\Repos\\OOP-labs\\OOP-lab1\\Lab.2\\Task2.csproj": {}
+    "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.2\\Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Uswer\\Source\\Repos\\OOP-labs\\OOP-lab1\\Lab.2\\Task2.csproj": {
+    "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Uswer\\Source\\Repos\\OOP-labs\\OOP-lab1\\Lab.2\\Task2.csproj",
+        "projectUniqueName": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.2\\Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "C:\\Users\\Uswer\\Source\\Repos\\OOP-labs\\OOP-lab1\\Lab.2\\Task2.csproj",
+        "projectPath": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.2\\Task2.csproj",
         "packagesPath": "C:\\Users\\Uswer\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Uswer\\Source\\Repos\\OOP-labs\\OOP-lab1\\Lab.2\\obj\\",
         "projectStyle": "PackageReference",
