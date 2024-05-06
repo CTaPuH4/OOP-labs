@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0429F24D-8CA5-4F13-A82A-D93EEC3CF255}|Task3\\Task3.csproj|c:\\users\\uswer\\source\\repos\\oop-labs\\oop-lab1\\task3\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0429F24D-8CA5-4F13-A82A-D93EEC3CF255}|Task3\\Task3.csproj|solutionrelative:task3\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E70FC-D4E5-4CDC-83BC-AFB61888020B}|Lab.2\\Task2.csproj|c:\\users\\uswer\\source\\repos\\oop-labs\\oop-lab1\\lab.2\\eutime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E70FC-D4E5-4CDC-83BC-AFB61888020B}|Lab.2\\Task2.csproj|solutionrelative:lab.2\\eutime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0429F24D-8CA5-4F13-A82A-D93EEC3CF255}|Task3\\Task3.csproj|c:\\users\\uswer\\source\\repos\\oop-labs\\oop-lab1\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0429F24D-8CA5-4F13-A82A-D93EEC3CF255}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD309CD-EFC8-4607-B37F-7AE838608476}|Lab.1\\Task1.csproj|c:\\users\\uswer\\source\\repos\\oop-labs\\oop-lab1\\lab.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD309CD-EFC8-4607-B37F-7AE838608476}|Lab.1\\Task1.csproj|solutionrelative:lab.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E70FC-D4E5-4CDC-83BC-AFB61888020B}|Lab.2\\Task2.csproj|c:\\users\\uswer\\source\\repos\\oop-labs\\oop-lab1\\lab.2\\addsymbols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E70FC-D4E5-4CDC-83BC-AFB61888020B}|Lab.2\\Task2.csproj|solutionrelative:lab.2\\addsymbols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E70FC-D4E5-4CDC-83BC-AFB61888020B}|Lab.2\\Task2.csproj|c:\\users\\uswer\\source\\repos\\oop-labs\\oop-lab1\\lab.2\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E70FC-D4E5-4CDC-83BC-AFB61888020B}|Lab.2\\Task2.csproj|solutionrelative:lab.2\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484E70FC-D4E5-4CDC-83BC-AFB61888020B}|Lab.2\\Task2.csproj|c:\\users\\uswer\\source\\repos\\oop-labs\\oop-lab1\\lab.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484E70FC-D4E5-4CDC-83BC-AFB61888020B}|Lab.2\\Task2.csproj|solutionrelative:lab.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Task3\\Complex.cs",
+              "RelativeDocumentMoniker": "Task3\\Complex.cs",
+              "ToolTip": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Task3\\Complex.cs",
+              "RelativeToolTip": "Task3\\Complex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:40:38.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:40:38.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddSymbols.cs",
+              "DocumentMoniker": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.2\\AddSymbols.cs",
+              "RelativeDocumentMoniker": "Lab.2\\AddSymbols.cs",
+              "ToolTip": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.2\\AddSymbols.cs",
+              "RelativeToolTip": "Lab.2\\AddSymbols.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:40:38.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EuTime.cs",
+              "DocumentMoniker": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.2\\EuTime.cs",
+              "RelativeDocumentMoniker": "Lab.2\\EuTime.cs",
+              "ToolTip": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.2\\EuTime.cs",
+              "RelativeToolTip": "Lab.2\\EuTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:40:38.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.2\\Time.cs",
+              "RelativeDocumentMoniker": "Lab.2\\Time.cs",
+              "ToolTip": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.2\\Time.cs",
+              "RelativeToolTip": "Lab.2\\Time.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:40:38.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab.1\\Program.cs",
+              "ToolTip": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.1\\Program.cs",
+              "RelativeToolTip": "Lab.1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:40:38.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab.2\\Program.cs",
+              "ToolTip": "C:\\Users\\Uswer\\source\\repos\\OOP-labs\\OOP-lab1\\Lab.2\\Program.cs",
+              "RelativeToolTip": "Lab.2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:40:38.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

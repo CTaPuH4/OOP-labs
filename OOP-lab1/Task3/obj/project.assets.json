@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uswer\\Documents\\GitHub\\OOP-labs\\OOP-lab1\\Task3\\Task3.csproj",
+      "projectUniqueName": "C:\\Users\\Uswer\\Source\\Repos\\OOP-labs\\OOP-lab1\\Task3\\Task3.csproj",
       "projectName": "Task3",
-      "projectPath": "C:\\Users\\Uswer\\Documents\\GitHub\\OOP-labs\\OOP-lab1\\Task3\\Task3.csproj",
+      "projectPath": "C:\\Users\\Uswer\\Source\\Repos\\OOP-labs\\OOP-lab1\\Task3\\Task3.csproj",
       "packagesPath": "C:\\Users\\Uswer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uswer\\Documents\\GitHub\\OOP-labs\\OOP-lab1\\Task3\\obj\\",
+      "outputPath": "C:\\Users\\Uswer\\Source\\Repos\\OOP-labs\\OOP-lab1\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Uswer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
